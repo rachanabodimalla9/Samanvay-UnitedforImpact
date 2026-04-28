@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="C:\Users\racha\OneDrive\Desktop\preview.jpg" />
+<img width="1200" height="475" alt="GHBanner" src="https://photos.app.goo.gl/vVCJzSUJivcpJDL48" />
 </div>
 
 # Please do view our web application
