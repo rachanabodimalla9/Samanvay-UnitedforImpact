@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://photos.app.goo.gl/vVCJzSUJivcpJDL48" />
+<img width="1200" height="475" alt="GHBanner" src="https://kommodo.ai/i/pICsQfViAhN6U80VxUO3" />
 </div>
 
 # Please do view our web application
