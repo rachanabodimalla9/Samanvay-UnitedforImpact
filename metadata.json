@@ -1,0 +1,6 @@
+{
+  "name": "Samanvay",
+  "description": "Connecting India's NGOs with Corporates and Volunteers. Features job postings, corporate voucher funding, and transparent donation tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}

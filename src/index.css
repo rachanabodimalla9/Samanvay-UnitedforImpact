@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Outfit", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+  
+  --color-saffron: #005acd; /* Changed to primary blue */
+  --color-green: #22C55E;
+  --color-blue: #005acd;
+  --color-ruby: #005acd; /* Changed to primary blue */
+  --color-gold: #005acd; /* Changed to primary blue */
+  --color-sun: #f5ffff;
+  --color-charcoal: #1A1A1A;
+}
+
+@layer base {
+  body {
+    @apply bg-white dark:bg-gray-950 text-charcoal dark:text-white font-sans antialiased transition-colors duration-500;
+  }
+}
+
+@layer components {
+  .vibrant-card {
+    @apply bg-white border border-blue/5 shadow-sm transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 hover:border-blue/30;
+  }
+  
+  .india-gradient-text {
+    @apply text-blue;
+  }
+  
+  .glow-text {
+    @apply drop-shadow-[0_0_10px_rgba(255,255,255,0.4)];
+  }
+}
