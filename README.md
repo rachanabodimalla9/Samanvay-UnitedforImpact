@@ -1,6 +1,6 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="The published version of the app: 
-https://ais-dev-dgp5zgpo74jgy4vrlutdng-195612114332.asia-east1.run.app/" />
+https://samanvay-461507300313.asia-southeast1.run.app/" />
 </div>
 
 # Please do view our web application
@@ -8,7 +8,7 @@ https://ais-dev-dgp5zgpo74jgy4vrlutdng-195612114332.asia-east1.run.app/" />
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: The published version of the app: 
-https://ais-dev-dgp5zgpo74jgy4vrlutdng-195612114332.asia-east1.run.app/
+https://samanvay-461507300313.asia-southeast1.run.app/
 
 ## Run Locally
 
