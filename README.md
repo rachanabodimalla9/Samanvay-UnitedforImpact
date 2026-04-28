@@ -1,6 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="The published version of the app: 
-https://samanvay-461507300313.asia-southeast1.run.app/" />
+<img width="1200" height="475" alt="GHBanner" src="preview.jpg" />
 </div>
 
 # Please do view our web application
